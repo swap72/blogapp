@@ -1,14 +1,6 @@
-# Welcome to our Blog App Project Report 
+# Welcome to My Blog App Project Report 
 
-**Team ID :**  LTVIP2023TMID05010
-
-**Team Size :**  3
-
-**Team Lead :**  Swapnil Mishra (Team Lead)
-
-**Team member :**  Sri Saiyogeshkumarethalapaka
-
-**Team member :**  Vaka  Urmila
+**User ID :**  LTVIP2023TMID05010
 
 # Project Description :
 
