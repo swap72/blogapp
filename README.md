@@ -4,7 +4,7 @@
 
 # Project Description :
 
-Our Blog App Provides information on the latest information on the semiconductor Technology like SSD.
+My Blog App Provides information on the latest information on the semiconductor Technology like SSD.
 It also has a Weather report article scripted by our team.
 
 In today's rapidly evolving world, technology plays a central role in almost every aspect of our lives. From communication and business to healthcare, education, and entertainment, technology has revolutionized the way we live and work. As technological advancements continue to shape the world around us, staying updated with the latest technologies has become more crucial than ever. Here are some key reasons why it is essential to stay abreast
