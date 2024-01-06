@@ -2,11 +2,9 @@
 
 **Team ID :**  LTVIP2023TMID05010
 
-**Team Size :**  4
+**Team Size :**  3
 
-**Team Leader :**  Sornapudi Suryaruthwick (Team Lead)
-
-**Team member :**  Swapnil Mishra
+**Team Lead :**  Swapnil Mishra (Team Lead)
 
 **Team member :**  Sri Saiyogeshkumarethalapaka
 
